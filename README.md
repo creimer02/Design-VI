@@ -27,4 +27,4 @@
 ---
 [Sample Link](https://zombo.com)
 
-![Sample Image](https://creator.nightcafe.studio/creation/86LfuVfKOnYs7NUltAXT)
+![Sample Image](86LfuVfKOnYs7NUltAXT--1--vz0qw.jpg)
