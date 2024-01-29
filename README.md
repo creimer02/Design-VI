@@ -5,7 +5,7 @@
 
 *Sample Italicized Text*
 > Sample Blockquote
-### Favorite President List
+### Favorite Presidents List
 1. Item A
 2. Item B
 3. Item C
