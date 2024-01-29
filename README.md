@@ -5,11 +5,11 @@
 
 *Sample Italicized Text*
 > Sample Blockquote
-### Sample Ordered List
+### Favorite President List
 1. Item A
 2. Item B
 3. Item C
-### Sample Unordered List
+### Shopping List
 - Item X
 - Item Y
 - Item Z
