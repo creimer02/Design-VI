@@ -3,6 +3,7 @@
 <img width="959" alt="Lab2Pic1" src="https://github.com/creimer02/Design-VI/assets/116917332/f418ab1c-daa4-41bf-99b4-77d8e1244d2e">
 <img width="959" alt="Lab2Pic2" src="https://github.com/creimer02/Design-VI/assets/116917332/e5ca912f-2509-44cd-b9a2-bc6a26950b23">
 <img width="959" alt="Lab2Pic3" src="https://github.com/creimer02/Design-VI/assets/116917332/9e387473-85f6-4395-a057-42b68d097087">
+<img width="959" alt="Lab2Pic0" src="https://github.com/creimer02/Design-VI/assets/116917332/8bc9b5a6-c2aa-4589-8fb0-dbc39b092d35">
 <img width="959" alt="Lab2Pic4" src="https://github.com/creimer02/Design-VI/assets/116917332/0566e041-4f4b-4021-b188-ea2747b3500a">
 <img width="959" alt="Lab2Pic5" src="https://github.com/creimer02/Design-VI/assets/116917332/3c0f164f-09e4-4027-8853-9847d2b133be">
 <img width="959" alt="Lab2Pic6" src="https://github.com/creimer02/Design-VI/assets/116917332/23922405-bc9e-494e-a6d5-4bb87cfdd0c2">
