@@ -8,3 +8,4 @@
 <img width="959" alt="Lab6Pic8" src="https://github.com/creimer02/Design-VI/assets/116917332/f8e995a1-e3a7-4f94-9d6f-8230b479007c">
 <img width="959" alt="Lab6Pic9" src="https://github.com/creimer02/Design-VI/assets/116917332/091a7b5b-42de-44f7-a8e2-a982f48ed099">
 <img width="959" alt="Lab6Pic10" src="https://github.com/creimer02/Design-VI/assets/116917332/a2a17667-788b-48cf-8f71-086c4ee2c223">
+<img width="959" alt="Lab6Pic11" src="https://github.com/creimer02/Design-VI/assets/116917332/137567ef-c8fe-447e-bcab-eb6cc6103668">
